@@ -1,7 +1,7 @@
-import { Navbar } from "../components/Navbar";
+import { Navbar } from "../../components/Navbar";
 import Head from "next/head";
 
-export default function Home() {
+export default function About() {
   return (
     <>
       <Head>
@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <div className="bg-white">
         <Navbar />
-        <h1>Home page</h1>
+        <h1>About page</h1>
       </div>
     </>
   );
