@@ -12,6 +12,7 @@ import {
   RefinementList,
   SearchBox,
   Configure,
+  Pagination,
 } from "react-instantsearch";
 
 import { Panel } from "../../components/Panel";
@@ -87,7 +88,8 @@ export default function Investments() {
               <div className="w-full sm:w-auto">
                 <Hits hitComponent={Hit} />
               </div>
-              <Configure analytics={false} hitsPerPage={5000} />
+              <Configure analytics={false} hitsPerPage={15} />
+              <Pagination />
             </div>
           </div>
         </InstantSearch>

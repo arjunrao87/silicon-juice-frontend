@@ -11,7 +11,8 @@
 - [x] Add analytics
 - [x] Hyperlink the company announcements
 - [x] Update card information
-- [ ] Paginate
+- [x] Paginate
+- [ ] Fill About
 - [ ] Make home page a landing page
 - [ ] Add metadata (for SEO)
 
