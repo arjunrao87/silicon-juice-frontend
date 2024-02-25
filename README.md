@@ -3,18 +3,19 @@
 ## TODOs
 
 - [x] Add favico
-- [ ] Reschema the data (backend)
-- [ ] Expose more facets (frontend)
+- [x] Deploy to netlify
+- [x] An about page
+- [x] Reschema the data (backend)
+- [x] Expose more facets (frontend)
+- [x] Remove date facet
 - [ ] Add analytics
+- [ ] Update card information
 - [ ] Hyperlink the company announcements
-- [ ] An about page
-- [ ] Deploy to netlify
 - [ ] Paginate
-- [ ] Remove date facet
-- [ ] add date in the card maybe
+- [ ] Make home page a landing page
 - [ ] Add metadata (for SEO)
 
 ## Things to be proved out
 
-- [ ] Search and facets
+- [x] Search and facets
 - [ ] Lead generation on home page
