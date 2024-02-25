@@ -70,11 +70,11 @@ export default function Investments() {
       <Head>
         <link rel="shortcut icon" href="/static/favicon.ico" />
       </Head>
-      <div className="">
+      <div className="container mx-auto w-screen">
         <Navbar />
         <InstantSearch searchClient={client} indexName="publications">
           <div className="flex flex-col sm:flex-row sm:justify-between py-4 px-6 shadow items-baseline w-full">
-            <div className="w-full sm:w-1/6 mb-4 sm:mb-0 hidden lg:block md:block">
+            <div className="w-full sm:w-1/6 md:mr-4 lg:mr-4 mb-4 sm:mb-0 hidden lg:block md:block">
               {/* Set a fixed width for the left container */}
               <DynamicWidgets
                 fallbackComponent={FallbackComponent}

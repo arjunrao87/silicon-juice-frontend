@@ -15,6 +15,7 @@
 - [x] Fill About
 - [x] Make home page a landing page
 - [x] Remove about and add footer
+- [ ] fix mobile view
 - [ ] Gate investments?
 - [ ] Add metadata (for SEO)
 
