@@ -12,7 +12,7 @@ export default function Home() {
         async
         src="//gc.zgo.at/count.js"
       ></script>
-      <div className="bg-white">
+      <div className="">
         <Navbar />
         <h1>Home page</h1>
       </div>

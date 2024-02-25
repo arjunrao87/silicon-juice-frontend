@@ -9,7 +9,7 @@ export default function About() {
       <Head>
         <link rel="shortcut icon" href="/static/favicon.ico" />
       </Head>
-      <div className="bg-white h-screen flex flex-col justify-center items-center">
+      <div className="h-screen flex flex-col justify-center items-center">
         <Navbar />
         <div className="flex h-full overflow-y-auto px-6">
           <div className="py-0">

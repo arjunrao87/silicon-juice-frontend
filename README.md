@@ -13,7 +13,6 @@
 - [x] Update card information
 - [x] Paginate
 - [x] Fill About
-- [ ] Change background color
 - [ ] Make home page a landing page
 - [ ] Add metadata (for SEO)
 
