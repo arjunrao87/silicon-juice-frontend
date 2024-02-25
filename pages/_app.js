@@ -1,5 +1,4 @@
 import React from "react";
-import "../styles/globals.css";
 import "../styles/tailwind.css";
 import "instantsearch.css/themes/satellite-min.css";
 

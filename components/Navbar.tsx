@@ -22,12 +22,6 @@ export function Navbar() {
             </Link>
           </button>
         </div>
-        <Link
-          href="/about"
-          className="md:inline-block lg:inline-block text-lg no-underline text-slate-700 hover:text-blue-dark ml-2 hidden"
-        >
-          About
-        </Link>
       </div>
     </nav>
   );
