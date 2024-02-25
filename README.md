@@ -1,4 +1,4 @@
-# siliconjuice
+# siliconjuice [![Netlify Status](https://api.netlify.com/api/v1/badges/a4976102-b953-4fb5-86b4-d7b5b781c121/deploy-status)](https://app.netlify.com/sites/siliconjuice/deploys)
 
 ## TODOs
 
