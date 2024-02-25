@@ -1,5 +1,6 @@
 import { Navbar } from "../components/Navbar";
 import Link from "next/link";
+import Footer from "../components/Footer";
 
 // Courtesy :: https://tailwindflex.com/@limaa-m/simple-landing-page
 export default function Home() {
@@ -742,32 +743,7 @@ export default function Home() {
             </p>
           </section>
         </main>
-        <footer className="container mx-auto py-16 px-3 mt-6 mb-8 text-gray-800 text-center">
-          <div className="flex -mx-3">
-            <div className="flex-1 px-3">
-              <h2 className="text-lg font-semibold">
-                Sourced from{" "}
-                <Link
-                  href="https://www.silicon.news/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                  className=" text-pink-600 underline"
-                >
-                  Silicon.news
-                </Link>{" "}
-                and built by{" "}
-                <Link
-                  href="https://www.arjunrao.co"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                  className=" text-pink-600 underline"
-                >
-                  arjunrao.co
-                </Link>
-              </h2>
-            </div>
-          </div>
-        </footer>
+        <Footer />
       </div>
     </>
   );

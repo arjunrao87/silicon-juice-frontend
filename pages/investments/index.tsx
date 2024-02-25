@@ -3,6 +3,7 @@ import { Hit as AlgoliaHit } from "instantsearch.js";
 import React from "react";
 import Head from "next/head";
 import Link from "next/link";
+import Footer from "../../components/Footer";
 
 import {
   DynamicWidgets,
@@ -94,6 +95,7 @@ export default function Investments() {
           </div>
         </InstantSearch>
       </div>
+      <Footer />
     </>
   );
 }
