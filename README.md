@@ -9,8 +9,8 @@
 - [x] Expose more facets (frontend)
 - [x] Remove date facet
 - [x] Add analytics
-- [ ] Update card information
-- [ ] Hyperlink the company announcements
+- [x] Hyperlink the company announcements
+- [x] Update card information
 - [ ] Paginate
 - [ ] Make home page a landing page
 - [ ] Add metadata (for SEO)

@@ -5,7 +5,7 @@ export function Navbar() {
     <nav className="font-sans flex flex-col text-center sm:flex-row sm:text-left sm:justify-between py-4 px-6 bg-white shadow sm:items-baseline w-full">
       <div className="mb-2 sm:mb-0">
         <a
-          href="/"
+          href="/investments"
           className="text-2xl no-underline text-red-800 hover:text-blue-dark"
         >
           🧃 Silicon Juice
