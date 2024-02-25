@@ -12,7 +12,8 @@
 - [x] Hyperlink the company announcements
 - [x] Update card information
 - [x] Paginate
-- [ ] Fill About
+- [x] Fill About
+- [ ] Change background color
 - [ ] Make home page a landing page
 - [ ] Add metadata (for SEO)
 
