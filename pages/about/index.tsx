@@ -21,7 +21,7 @@ export default function About() {
                   height={400}
                   alt="Picture of the author"
                 />
-                <span className="text-center mt-12 text-justify">
+                <span className="mt-12 text-justify">
                   Have you found it hard keeping track of all the deals
                   happening in the Venture Capital space? Yep, me too! I created
                   Silicon Juice to have a searchable database of venture deals.
