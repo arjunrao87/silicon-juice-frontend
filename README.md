@@ -8,7 +8,7 @@
 - [x] Reschema the data (backend)
 - [x] Expose more facets (frontend)
 - [x] Remove date facet
-- [ ] Add analytics
+- [x] Add analytics
 - [ ] Update card information
 - [ ] Hyperlink the company announcements
 - [ ] Paginate

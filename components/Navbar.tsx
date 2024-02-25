@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export function Navbar() {
   return (
     <nav className="font-sans flex flex-col text-center sm:flex-row sm:text-left sm:justify-between py-4 px-6 bg-white shadow sm:items-baseline w-full">
@@ -10,18 +12,18 @@ export function Navbar() {
         </a>
       </div>
       <div>
-        <a
+        <Link
           href="/investments"
           className="text-lg no-underline text-green-700 hover:text-blue-dark ml-2"
         >
           Investments
-        </a>
-        <a
+        </Link>
+        <Link
           href="/about"
           className="text-lg no-underline text-slate-700 hover:text-blue-dark ml-2"
         >
           About
-        </a>
+        </Link>
       </div>
     </nav>
   );

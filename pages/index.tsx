@@ -7,6 +7,11 @@ export default function Home() {
       <Head>
         <link rel="shortcut icon" href="/static/favicon.ico" />
       </Head>
+      <script
+        data-goatcounter="https://siliconjuice.goatcounter.com/count"
+        async
+        src="//gc.zgo.at/count.js"
+      ></script>
       <div className="bg-white">
         <Navbar />
         <h1>Home page</h1>
