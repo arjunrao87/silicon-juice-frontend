@@ -14,6 +14,7 @@
 - [x] Paginate
 - [x] Fill About
 - [x] Make home page a landing page
+- [ ] Gate investments?
 - [ ] Add metadata (for SEO)
 
 ## Things to be proved out

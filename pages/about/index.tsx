@@ -24,7 +24,7 @@ export default function About() {
                 <span className="mt-12 text-justify">
                   Have you found it hard keeping track of all the deals
                   happening in the Venture Capital space? Yep, me too! I created
-                  Silicon Juice to have a searchable database of venture deals.
+                  Silicon Juice to be a searchable database of venture deals.
                   Most of the data has been sourced from{" "}
                   <Link
                     href="https://www.silicon.news/"

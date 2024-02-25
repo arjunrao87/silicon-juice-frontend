@@ -54,19 +54,15 @@ export default function Home() {
                     >
                       <stop
                         offset="0"
-                        stop-color="gray"
-                        stop-opacity=".25"
+                        stopColor="gray"
+                        stopOpacity=".25"
                       ></stop>
                       <stop
                         offset=".54"
-                        stop-color="gray"
-                        stop-opacity=".12"
+                        stopColor="gray"
+                        stopOpacity=".12"
                       ></stop>
-                      <stop
-                        offset="1"
-                        stop-color="gray"
-                        stop-opacity=".1"
-                      ></stop>
+                      <stop offset="1" stopColor="gray" stopOpacity=".1"></stop>
                     </linearGradient>
                     <linearGradient
                       id="b"
