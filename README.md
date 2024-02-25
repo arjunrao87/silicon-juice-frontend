@@ -13,10 +13,10 @@
 - [x] Update card information
 - [x] Paginate
 - [x] Fill About
-- [ ] Make home page a landing page
+- [x] Make home page a landing page
 - [ ] Add metadata (for SEO)
 
 ## Things to be proved out
 
 - [x] Search and facets
-- [ ] Lead generation on home page
+- [x] Lead generation on home page
