@@ -4,7 +4,7 @@ import React from "react";
 import Head from "next/head";
 import Link from "next/link";
 import Footer from "../../components/Footer";
-
+import Script from "next/script";
 import {
   DynamicWidgets,
   InstantSearch,
@@ -36,6 +36,11 @@ type HitProps = {
 function Hit({ hit }: HitProps) {
   return (
     <>
+      <Script
+        data-goatcounter="https://siliconjuice.goatcounter.com/count"
+        async
+        src="//gc.zgo.at/count.js"
+      ></Script>
       <div className="flex flex-col">
         <h2 className="text-lg font-bold">
           <Highlight hit={hit} attribute="name" className="Hit-label" />
