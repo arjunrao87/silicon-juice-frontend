@@ -1,11 +1,17 @@
 import { Navbar } from "../components/Navbar";
 import Link from "next/link";
 import Footer from "../components/Footer";
+import Script from "next/script";
 
 // Courtesy :: https://tailwindflex.com/@limaa-m/simple-landing-page
 export default function Home() {
   return (
     <>
+      <Script
+        data-goatcounter="https://siliconjuice.goatcounter.com/count"
+        async
+        src="//gc.zgo.at/count.js"
+      ></Script>
       <div>
         <Navbar />
         <main className="text-gray-900">
